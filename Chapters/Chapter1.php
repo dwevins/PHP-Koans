@@ -17,7 +17,7 @@ class Chapter1 extends Chapter
     public function declareAVariable()
     {
         // CODE HERE
-
+        $anyVariable = 0;
         // DO NOT EDIT BELOW
         return $anyVariable;
     }
@@ -31,7 +31,7 @@ class Chapter1 extends Chapter
     public function declareAnInt()
     {
         // CODE HERE
-
+        $shouldBeAnInt = 42;
         // DO NOT EDIT BELOW
         return $shouldBeAnInt;
     }
@@ -45,7 +45,7 @@ class Chapter1 extends Chapter
     public function declareAFloat()
     {
         // CODE HERE
-
+        $shouldBeAFloat = 2.2;
         // DO NOT EDIT BELOW
         return $shouldBeAFloat;
     }
@@ -59,7 +59,7 @@ class Chapter1 extends Chapter
     public function declareABoolean()
     {
         // CODE HERE
-
+        $shouldBeABoolean = false;
         // DO NOT EDIT BELOW
         return $shouldBeABoolean;
     }
